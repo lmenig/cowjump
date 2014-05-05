@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\player.cs">
+    <Files>
+      <File FileName="Assets\NewBehaviourScript.cs" Line="25" Column="41" />
+      <File FileName="Assets\player.cs" Line="29" Column="96" />
+      <File FileName="Assets\upcame.cs" Line="12" Column="18" />
+      <File FileName="Assets\collider.cs" Line="17" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
